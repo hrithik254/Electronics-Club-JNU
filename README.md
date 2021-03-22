@@ -1,2 +1,2 @@
-# Electrnics-Club-JNU
+# Electronics-Club-JNU
 The repository for Electronics Club JNU
